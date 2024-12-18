@@ -4,7 +4,7 @@
   "description": "Verifica 2023",
   "main": "server.ts",
   "scripts": {
-    "start": "npx nodemon --exec npx ts-node server.ts"
+    "start": "nodemon server.ts"
   },
   "author": "",
   "license": "ISC",
